@@ -28,10 +28,11 @@ I'm a software engineer based in Taiwan, TX. I usually work on front-end and bac
 ## GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api?username=henry753951&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henry753951&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry753951&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry753951&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=henry753951)
 
 <!-- ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=henry753951&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=henry753951&theme=vue&no-frame=true&no-bg=false&margin-w=4) -->
 
 ## Buy Me a Coffee 💰
 [![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/henry753951) 

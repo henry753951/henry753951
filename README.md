@@ -29,7 +29,7 @@ I'm a software engineer based in Taiwan, TX. I usually work on front-end and bac
 ![](https://github-readme-stats.vercel.app/api?username=henry753951&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henry753951&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry753951&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=henry753951)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=henry753951)](https://wakatime.com/@henry753951)
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=henry753951&theme=vue&no-frame=true&no-bg=false&margin-w=4) -->

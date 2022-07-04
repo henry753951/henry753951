@@ -18,11 +18,10 @@ I am a software engineer based in Taiwan, I usually work on front-end and back-e
 
 
 ### Where can I contact you? ✉️
-+ Instagram: [henry753951][3]
 + Discord: [henry753951#1526][4]
 + Email: [henryboy753951@gmail.com][5]
 
-* [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/332108610811199489) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henry753951) 
+* [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/332108610811199489)
 
 ### Hardware 🚀
 * CPU: **Intel(R) Core(TM) i7-9700KF**

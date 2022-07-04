@@ -10,7 +10,7 @@ I am a software engineer based in Taiwan, I usually work on front-end and back-e
 ### Current Project(s) 💻
 + **[高雄大學App](https://nuk-app.herokuapp.com)** - 選課模擬器｜聊天功能｜學分一覽｜快速查成績｜課表工具
 + **[比賽分組繳費系統](https://github.com/henry753951/Team-select-system)** - 隊伍分組｜繳費功能｜驗證隊伍
-+ **[討論區系統](https://forum.nuksci.org)** - Discord同步｜發問系統
++ **[討論區系統](https://forum.nuksci.org)** - Discord Bot 同步｜發問系統｜Line Notify
 
 ### Small Projects :D 💻
 + **[宿舍網路工具](https://github.com/henry753951/nuk-network-login)** - 多帳號管理｜無縫切換｜流量查看

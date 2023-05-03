@@ -4,9 +4,9 @@
 
 ### Hi, I'm Henry753951 ! 
 [![](https://visitcount.itsvg.in/api?id=henry753951&icon=1&color=9)](https://visitcount.itsvg.in)  
-# About Me 🤘
+<!-- # About Me 🤘
 I am a software engineer based in Taiwan, I usually work on front-end and back-end development.
-
+ -->
 ### Current Project(s) 💻
 + **[高雄大學App](https://nuk-app.herokuapp.com)** - 選課模擬器｜聊天功能｜學分一覽｜快速查成績｜課表工具
 + **[比賽分組繳費系統](https://github.com/henry753951/Team-select-system)** - 隊伍分組｜繳費功能｜驗證隊伍

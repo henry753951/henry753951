@@ -60,7 +60,7 @@ I am a software engineer based in Taiwan, I usually work on front-end and back-e
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ## GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry753951&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=OOP,nuk-network-login&langs_count=20&hide=Jupyter%20Notebook )<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry753951&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=OOP,nuk-network-login&langs_count=20&hide=Jupyter%20Notebook,html )<br/>
 
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=henry753951&theme=vue&no-frame=true&no-bg=false&margin-w=4) -->

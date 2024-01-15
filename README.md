@@ -5,7 +5,6 @@
 ### Hi, I'm Henry753951 ! 
 [![](https://visitcount.itsvg.in/api?id=henry753951&icon=1&color=9)](https://visitcount.itsvg.in)  
 # About Me 🤘
-I'm a passionate full-stack engineer based in Taiwan.
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=henry0725)
 

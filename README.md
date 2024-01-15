@@ -4,17 +4,10 @@
 
 ### Hi, I'm Henry753951 ! 
 [![](https://visitcount.itsvg.in/api?id=henry753951&icon=1&color=9)](https://visitcount.itsvg.in)  
-<!-- # About Me 🤘
-I am a software engineer based in Taiwan, I usually work on front-end and back-end development.
- -->
-### Current Project(s) 💻
-+ **[高雄大學App](https://nuk-app.herokuapp.com)** - 選課模擬器｜聊天功能｜學分一覽｜快速查成績｜課表工具
-+ **[比賽分組繳費系統](https://github.com/henry753951/Team-select-system)** - 隊伍分組｜繳費功能｜驗證隊伍
-+ **[討論區系統](https://forum.nuksci.org)** - Discord Bot 同步｜發問系統｜Line Notify
+# About Me 🤘
+I'm a passionate full-stack engineer based in Taiwan.
 
-### Small Projects :D 💻
-+ **[宿舍網路工具](https://github.com/henry753951/nuk-network-login)** - 多帳號管理｜無縫切換｜流量查看
-+ **[R6中文輸入](https://github.com/henry753951/R6-Alt-code)** - 遊戲中文輸入 by AltCode
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=henry0725)
 
 
 ### Where can I contact you? ✉️

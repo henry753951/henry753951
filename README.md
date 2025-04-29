@@ -1,6 +1,6 @@
 [3]: https://www.instagram.com/henry753951/
 [4]: https://discordapp.com/users/332108610811199489
-[5]: mailto:henryboy753951@gmail.com
+[5]: mailto:me@hongyu.dev
 
 ### Hi, I'm Henry753951 ! 
 [![](https://visitcount.itsvg.in/api?id=henry753951&icon=1&color=9)](https://visitcount.itsvg.in)  
@@ -11,7 +11,7 @@
 
 ### Where can I contact you? ✉️
 + Discord: [henry753951#1526][4]
-+ Email: [henryboy753951@gmail.com][5]
++ Email: [me@hongyu.dev][5]
 
 * [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/332108610811199489)
 

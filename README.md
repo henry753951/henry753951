@@ -16,9 +16,9 @@
 * [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/332108610811199489)
 
 ### Hardware 🚀
-* CPU: **Intel(R) Core(TM) i7-9700KF**
-* MB: **ROG STRIX Z390F GAMING**
-* Memory: **2 x DDR4 8GB 3200Mhz (16GB)**
+* CPU: **AMD Ryzen 9 9950X**
+* MB: **ROG Strix B650-A Gaming WiFi**
+* Memory: **4 x DDR5 16GB 6200Mhz (64GB)**
 * GPU: **ROG STRIX RTX2070 Super O8G GAMING**
 ---
 ## Tech Stack 💻

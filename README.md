@@ -1,27 +1,38 @@
 # Hi, I'm HongYu 👋
 
-I'm a master's student working on **computer vision**, especially **Sim2Real** for sports. I'm interested in synthetic data, tracking, camera geometry, and what it takes to make vision systems useful on real volleyball and basketball footage.
+I'm a master's student working across **computer vision, full-stack development, and infrastructure**. My current research focus is Sim2Real vision for sports, especially volleyball and basketball. I also like designing the systems around an idea—interfaces, APIs, data, workers, and deployment—and building a tool when I need one that doesn't exist yet.
 
 [![GitHub](https://img.shields.io/badge/GitHub-henry753951-181717?style=flat-square&logo=github)](https://github.com/henry753951) [![Email](https://img.shields.io/badge/Email-me%40hongyu.dev-0A7C86?style=flat-square&logo=gmail&logoColor=white)](mailto:me@hongyu.dev)
 
-![Research path: simulation, vision, and sports video](assets/vision-loop.svg)
+## What I work on
 
-## What I'm exploring
+- **Computer vision:** synthetic data, detection and tracking, pose, camera geometry, multi-camera video, and sports analysis.
+- **Full-stack software:** web and mobile interfaces, backend APIs, databases, real-time communication, and media workflows.
+- **Infrastructure and system design:** service boundaries, asynchronous jobs, distributed task processing, containers, Kubernetes GPU workers, NVIDIA MIG, Terraform, CI/CD, and self-hosted services.
 
-`synthetic data → real footage` · `detection & tracking` · `multi-camera geometry` · `sports video understanding`
+## Tech I've worked with
 
-## Selected projects
+| Area | Tools |
+| --- | --- |
+| Vision & simulation | Python, PyTorch, OpenCV, Unity, C# |
+| Frontend & apps | TypeScript, JavaScript, Vue, Nuxt, Flutter, Dart, SwiftUI, Sass |
+| Backend & data | Node.js, Bun, Fastify, GraphQL Yoga, FastAPI, Flask, Prisma, PostgreSQL, Redis, MinIO |
+| Infra & media | Linux, Docker, Kubernetes, Terraform, NVIDIA MIG, GitHub Actions, Cloudflare Workers, FFmpeg, OvenMediaEngine |
+| Other languages & tools | C++, Go, Java, Rust, Google Cloud, Tauri, Unreal Engine |
 
-- **[NeuralCourt Basketball](https://github.com/henry753951/neuralcourt-basketball)** — a Unity basketball simulation with GPU-batched character motion and multi-camera monitoring.
-- **[Volleyball Analysis Engine](https://github.com/henry753951/volleyball-analysis-engine)** — a Python worker for volleyball detection, tracking, pose, and analysis.
-- **[Volleyball Monitoring AI](https://github.com/henry753951/volleyball-monitoring-ai)** — live annotation, video workflows, and integration with an external vision system.
-- **[TartUI](https://github.com/henry753951/TartUI)** — a native macOS interface for Tart virtual machines.
+I use different parts of that stack for different problems. For example:
 
-## Tools I use
+- [Volleyball Analysis Engine](https://github.com/henry753951/volleyball-analysis-engine) runs detection, tracking, pose, and analysis in a **Python / PyTorch / OpenCV / Docker** worker.
+- [Volleyball Monitoring AI](https://github.com/henry753951/volleyball-monitoring-ai) connects a **Nuxt / Vue / TypeScript** interface to **Fastify, GraphQL Yoga, Prisma, PostgreSQL, Redis, MinIO, and FFmpeg** for live annotation and video workflows.
+- [NeuralCourt Basketball](https://github.com/henry753951/neuralcourt-basketball) explores basketball simulation with **Unity / C#**, GPU-batched character motion, and multi-camera monitoring.
+- [k8s-mig-manager](https://github.com/henry753951/k8s-mig-manager) is a **Bun / TypeScript / Ink** CLI for managing NVIDIA MIG profiles on Kubernetes nodes.
+- Smaller tools include [Snip](https://github.com/henry753951/snip), a **SwiftUI / yt-dlp / FFmpeg** video app, and a [Cloudflare mailbox API](https://github.com/henry753951/cloudflare-catchall-mailbox) built with **Workers / D1 / R2**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## Languages in my public repositories
 
-On the engineering side, I build backend services and GPU workers for parallel tasks on Kubernetes. That work supports my experiments alongside Linux, Docker, and CI/CD.
+[![Public repository language ranking](https://github-stats-extended.vercel.app/api/top-langs?username=henry753951&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook&theme=transparent&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+
+Ranked using code size and repository count; Jupyter Notebook is excluded. This reflects public code, not proficiency.
 
 <details>
 <summary>GitHub activity</summary>

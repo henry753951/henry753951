@@ -11,9 +11,9 @@ I'm a master's student working across **infrastructure, full-stack software, and
 - **Computer vision & simulation:** synthetic data, detection and tracking, pose, camera geometry, multi-camera video, and sports analysis.
 - **Tools for my own needs:** small apps, CLIs, and developer tools that make a specific workflow easier.
 
-## Tools I've worked with
+## Technologies I've used or explored
 
-Tools I've used in projects and experiments, at different levels of depth:
+I've come across these in projects and experiments. My experience varies by tool, and I'm still learning many of them.
 
 | Area | Tools |
 | --- | --- |
